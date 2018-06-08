@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package="json4lua"
-version="0.9.20-1"
+version="0.9.30-1"
 -- LuaDist source
 source = {
-  tag = "0.9.20-1",
+  tag = "0.9.30-1",
   url = "git://github.com/LuaDist-testing/json4lua.git"
 }
 -- Original source
 -- source = {
---    url = "http://luaforge.net/frs/download.php/1375/JSON4Lua-0.9.20.zip",
---    dir = "json"
+--    url = "http://luaforge.net/frs/download.php/4184/JSON4Lua-0.9.30.zip",
+--    dir = "JSON4Lua-0.9.30/json"
 -- }
 description = {
    summary = "JSON4Lua and JSONRPC4Lua implement JSON (JavaScript Object Notation) encoding and decoding and a JSON-RPC-over-http client for Lua.",
